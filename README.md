@@ -20,4 +20,4 @@
     function nomeDaFuncao() {
         // código da função
     }
-    ```
+    
