@@ -10,9 +10,9 @@
 
 ### 4. Boas Práticas de Programação  
 
-# Curso 02 de JavaScript 
+# Curso 02 de JavaScript Alura
 
-### 1. Interagindo com HTML Alura
+### 1. Interagindo com HTML 
   
 ### 2. Funções 
 
