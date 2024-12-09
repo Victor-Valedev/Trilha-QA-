@@ -1,9 +1,9 @@
 //1 - Crie um programa que utilize o console.log para exibir uma mensagem de boas-vindas.
-console.log('Boas-vindas.');
+console.log('Boas-vindas!');
 
 //2 - Crie uma variável chamada "nome" e atribua a ela o seu nome. Em seguida, utilize o console.log para exibir a mensagem "Olá, [seu nome]!" no console do navegador.
 let nome1 = 'Victor';
-console.log(`Olá ${nome1}!`);
+console.log(`Olá, ${nome1}!`);
 
 //3 - Crie uma variável chamada "nome" e atribua a ela o seu nome. Em seguida, utilize o alert para exibir a mensagem "Olá, [seu nome]!" .
 let nome2 = 'Victor';
@@ -26,19 +26,19 @@ let resultadoSub = valor3 - valor4;
 console.log(`A diferença entre ${valor3} e ${valor4} é igual a ${resultadoSub}.`);
 
 //7 - Peça ao usuário para inserir sua idade com prompt. Com base na idade inserida, utilize um if para verificar se a pessoa é maior ou menor de idade, exibindo uma mensagem apropriada no console.
-let idade = prompt('Insira a sua idade:');
+let idade = prompt('Digite a sua idade: ');
 if (idade >= 18) {
-    console.log('Você é maior de idade');
+    console.log('Você é maior de idade!');
 } else {
-    console.log('Você é menor de idade');
+    console.log('Você é menor de idade!');
 }
 
 //8 - Crie uma variável "numero" e peça um valor com prompt verifique se é positivo, negativo ou zero. Use if-else para imprimir a respectiva mensagem.
-let numero = prompt('Insira um número:');
+let numero = prompt('Insira um número: ');
 if (numero >= 0) {
-    console.log('O número digitado é positivo');
+    console.log('O número digitado é positivo!');
 } else {
-    console.log('O número digitado é negativo');
+    console.log('O número digitado é negativo!');
 }
 
 //9 - Use um loop while para imprimir os números de 1 a 10 no console.
@@ -51,9 +51,9 @@ while (numeros <= 10) {
 //10 - Crie uma variável "nota" e atribua um valor numérico a ela. Use if-else para determinar se a nota é maior ou igual a 7 e exiba "Aprovado" ou "Reprovado" no console.
 let nota = 10;
 if (nota >= 7) {
-    console.log('Você foi aprovado');
+    console.log('Você foi aprovado!');
 } else {
-    console.log('Você foi reprovado');
+    console.log('Você foi reprovado!');
 }
 
 //11 - Use o Math.random para gerar qualquer número aleatório e exiba esse número no console.
